@@ -70,7 +70,7 @@ body {
   }
   
   .image {
-    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
+    background-image: url('soccer.jpeg');
     background-size: cover;
     background-position: center;
     height: 300px;
